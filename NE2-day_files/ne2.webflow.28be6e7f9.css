@@ -47,7 +47,7 @@
 .apt1 {
   border: 0px solid #000;
   border-radius: 0px;
-  background-image: url("https://uploads-ssl.webflow.com/5fbad9a0ec09457e3f919006/6068af45a382c1113ca622e9_Idle_02.gif");
+  background-image: url("Assets/gif-1-idle.gif");
   background-position: 0px 0px;
   background-size: cover;
   background-clip: border-box;
@@ -55,13 +55,13 @@
 }
 
 .apt1:hover {
-  background-image: url("https://uploads-ssl.webflow.com/5fbad9a0ec09457e3f919006/6068af453013aa993b06eebd_Action_02.gif");
+  background-image: url("Assets/gif-1-action.gif");
   background-position: 0px 0px;
   background-size: cover;
 }
 
 .apt1:active {
-  background-image: url("https://uploads-ssl.webflow.com/5fbad9a0ec09457e3f919006/6068af453013aa993b06eebd_Action_02.gif");
+  background-image: url("Assets/gif-1-action.gif");
   background-position: 0px 0px;
   background-size: cover;
 }
@@ -69,7 +69,7 @@
 .apt2 {
   border: 0px solid #000;
   border-radius: 0px;
-  background-image: url("https://uploads-ssl.webflow.com/5fbad9a0ec09457e3f919006/608469a1c96abe77a89f2bf2_Idle02.gif");
+  background-image: url("Assets/gif-2-idle.gif");
   background-position: 0px 0px;
   background-size: cover;
   background-clip: border-box;
@@ -77,13 +77,13 @@
 }
 
 .apt2:hover {
-  background-image: url("https://uploads-ssl.webflow.com/5fbad9a0ec09457e3f919006/608469a1db7e871547b6723b_Action02.gif");
+  background-image: url("Assets/gif-2-action.gif");
   background-position: 0px 0px;
   background-size: cover;
 }
 
 .apt2:active {
-  background-image: url("https://uploads-ssl.webflow.com/5fbad9a0ec09457e3f919006/608469a1db7e871547b6723b_Action02.gif");
+  background-image: url("Assets/gif-2-action.gif");
   background-position: 0px 0px;
   background-size: cover;
 }
@@ -91,7 +91,7 @@
 .apt3 {
   border: 0px solid #000;
   border-radius: 0px;
-  background-image: url("https://uploads-ssl.webflow.com/5fbad9a0ec09457e3f919006/6068af3425efbe806dc3a0fc_Idle_02.gif");
+  background-image: url("Assets/gif-3-idle.gif");
   background-position: 0px 0px;
   background-size: cover;
   background-clip: border-box;
@@ -99,13 +99,13 @@
 }
 
 .apt3:hover {
-  background-image: url("https://uploads-ssl.webflow.com/5fbad9a0ec09457e3f919006/6068af357e5bc504fa80ec6a_Action_02.gif");
+  background-image: url("Assets/gif-3-action.gif");
   background-position: 0px 0px;
   background-size: cover;
 }
 
 .apt3:active {
-  background-image: url("https://uploads-ssl.webflow.com/5fbad9a0ec09457e3f919006/6068af357e5bc504fa80ec6a_Action_02.gif");
+  background-image: url("Assets/gif-3-action.gif");
   background-position: 0px 0px;
   background-size: cover;
 }
@@ -113,20 +113,20 @@
 .apt4 {
   border: 0px solid #000;
   border-radius: 0px;
-  background-image: url("https://uploads-ssl.webflow.com/5fbad9a0ec09457e3f919006/6068aab83dcff60d1918dfa0_Idle_02.gif");
+  background-image: url("Assets/gif-4-idle.gif");
   background-position: 0px 0px;
   background-size: cover;
   background-clip: border-box;
 }
 
 .apt4:hover {
-  background-image: url("https://uploads-ssl.webflow.com/5fbad9a0ec09457e3f919006/6068ab83b9a185a7dddf8ced_Action_02.gif");
+  background-image: url("Assets/gif-4-action.gif");
   background-position: 0px 0px;
   background-size: cover;
 }
 
 .apt4:active {
-  background-image: url("https://uploads-ssl.webflow.com/5fbad9a0ec09457e3f919006/6068ab83b9a185a7dddf8ced_Action_02.gif");
+  background-image: url("Assets/gif-4-action.gif");
   background-position: 0px 0px;
   background-size: cover;
 }
@@ -134,20 +134,20 @@
 .apt5 {
   border: 0px solid #000;
   border-radius: 0px;
-  background-image: url("https://uploads-ssl.webflow.com/5fbad9a0ec09457e3f919006/6068a8bf3dcff682de18da99_Idle.gif");
+  background-image: url("Assets/gif-5-idle.gif");
   background-position: 0px 0px;
   background-size: cover;
   background-clip: border-box;
 }
 
 .apt5:hover {
-  background-image: url("https://uploads-ssl.webflow.com/5fbad9a0ec09457e3f919006/6068a8c04e5efd9d620eaf13_Action.gif");
+  background-image: url("Assets/gif-5-action.gif");
   background-position: 0px 0px;
   background-size: cover;
 }
 
 .apt5:active {
-  background-image: url("https://uploads-ssl.webflow.com/5fbad9a0ec09457e3f919006/6068a8c04e5efd9d620eaf13_Action.gif");
+  background-image: url("Assets/gif-5-action.gif");
   background-position: 0px 0px;
   background-size: cover;
 }
@@ -155,20 +155,20 @@
 .apt6 {
   border: 0px solid #000;
   border-radius: 0px;
-  background-image: url("https://uploads-ssl.webflow.com/5fbad9a0ec09457e3f919006/6068af2b044730a414380f85_Idle_02.gif");
+  background-image: url("Assets/gif-6-idle.gif");
   background-position: 0px 0px;
   background-size: cover;
   background-clip: border-box;
 }
 
 .apt6:hover {
-  background-image: url("https://uploads-ssl.webflow.com/5fbad9a0ec09457e3f919006/60846561abf4b4973383bd0b_Active_02.gif");
+  background-image: url("Assets/gif-6-action.gif");
   background-position: 0px 0px;
   background-size: cover;
 }
 
 .apt6:active {
-  background-image: url("https://uploads-ssl.webflow.com/5fbad9a0ec09457e3f919006/60846561abf4b4973383bd0b_Active_02.gif");
+  background-image: url("Assets/gif-6-action.gif");
   background-position: 0px 0px;
   background-size: cover;
 }
@@ -176,39 +176,39 @@
 .apt7 {
   border: 0px solid #000;
   border-radius: 0px;
-  background-image: url("https://uploads-ssl.webflow.com/5fbad9a0ec09457e3f919006/60846a4abbf27d2ac6ec51d0_Idle02.gif");
+  background-image: url("Assets/gif-7-idle.gif");
   background-position: 0px 0px;
   background-size: cover;
   background-clip: border-box;
 }
 
 .apt7:hover {
-  background-image: url("https://uploads-ssl.webflow.com/5fbad9a0ec09457e3f919006/60846a48099cd2a188263c03_Action02.gif");
+  background-image: url("Assets/gif-7-action.gif");
   background-position: 0px 0px;
   background-size: cover;
 }
 
 .apt7:active {
-  background-image: url("https://uploads-ssl.webflow.com/5fbad9a0ec09457e3f919006/60846a48099cd2a188263c03_Action02.gif");
+  background-image: url("Assets/gif-7-action.gif");
   background-position: 0px 0px;
   background-size: cover;
 }
 
 .elevator {
-  background-image: url("https://uploads-ssl.webflow.com/5fbad9a0ec09457e3f919006/60691e3143ba40a1782c0e2d_Elevator1.png");
+  background-image: url("Assets/elevator-day.png");
   background-position: 50% 50%;
   background-size: contain;
 }
 
 .elevator2 {
-  background-image: url("https://uploads-ssl.webflow.com/5fbad9a0ec09457e3f919006/6084825c790e47cda737e32b_DiscoBall_Idle02.gif");
+  background-image: url("Assets/elevator-disco-idle.gif");
   background-position: 50% 50%;
   background-size: contain;
   cursor: pointer;
 }
 
 .elevator2:hover {
-  background-image: url("https://uploads-ssl.webflow.com/5fbad9a0ec09457e3f919006/6084825d452e51a8fa0a483f_DiscoBall_Dance02.gif");
+  background-image: url("Assets/elevator-disco-action.gif");
 }
 
 .elevator2:active {
@@ -216,7 +216,7 @@
 }
 
 .imagedance {
-  background-image: url("https://uploads-ssl.webflow.com/5fbad9a0ec09457e3f919006/608f103809187acfbd3aa251_NE2_StarryTextr1.png");
+  background-image: url("Assets/window-night.png");
   background-size: cover;
   background-repeat: no-repeat;
   opacity: 1;
@@ -228,7 +228,7 @@
 }
 
 .imagedance.yuri:hover {
-  background-image: url("https://uploads-ssl.webflow.com/5fbad9a0ec09457e3f919006/6068af453013aa993b06eebd_Action_02.gif");
+  background-image: url("Assets/gif-1-action.gif");
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -276,34 +276,35 @@
 }
 
 .apt8 {
-  background-image: url("https://uploads-ssl.webflow.com/5fbad9a0ec09457e3f919006/608470f2ebed05517f7854c3_Idle0.png");
+  background-image: url("Assets/credits-idle.png");
   background-position: 0px 0px;
   background-size: cover;
 }
 
 .apt8:hover {
-  background-image: url("https://uploads-ssl.webflow.com/5fbad9a0ec09457e3f919006/60847072790e472da8377cd0_Action0.png");
+  background-image: url("Assets/credits-action.png");
 }
 
 .apt8:active {
-  background-image: url("https://uploads-ssl.webflow.com/5fbad9a0ec09457e3f919006/60847072790e472da8377cd0_Action0.png");
+  background-image: url("Assets/credits-action.png");
 }
 
 .section {
-  background-image: url("https://uploads-ssl.webflow.com/5fbad9a0ec09457e3f919006/608f0abb7874982077698036_BG_v3-Night3.jpg");
+  background-image: url("Assets/bg-night.jpg");
   background-position: 0px 0px;
   background-size: 100%;
   background-repeat: no-repeat;
 }
 
 .section.night {
-  background-image: url("https://uploads-ssl.webflow.com/5fbad9a0ec09457e3f919006/608f0abb7874982077698036_BG_v3-Night3.jpg");
+  background-image: url("Assets/bg-night.jpg");
   background-size: 100%;
   background-repeat: no-repeat;
+  display:none;
 }
 
 .section.day {
-  background-image: url("https://uploads-ssl.webflow.com/5fbad9a0ec09457e3f919006/60847a95d656c816b7db6699_BG_Tiny.png");
+  background-image: url("Assets/bg-day.png");
 }
 
 .image-8 {
@@ -311,7 +312,7 @@
 }
 
 .elevator3 {
-  background-image: url("https://uploads-ssl.webflow.com/5fbad9a0ec09457e3f919006/6093395acbbe7022bf0cb543_Elev_v4ball.png"), url("https://uploads-ssl.webflow.com/5fbad9a0ec09457e3f919006/6084825d452e51a8fa0a483f_DiscoBall_Dance02.gif");
+  background-image: url("Assets/elevator-party.png"), url("Assets/elevator-disco-action.gif");
   background-position: 0px 0px, 0px 0px;
   background-size: cover, cover;
   background-repeat: no-repeat, no-repeat;
@@ -326,7 +327,7 @@
 .apt2-copy {
   border: 0px solid #000;
   border-radius: 0px;
-  background-image: url("https://uploads-ssl.webflow.com/5fbad9a0ec09457e3f919006/608469a1c96abe26179f2bf3_Dance02.gif");
+  background-image: url("Assets/gif-2-dance.gif");
   background-size: cover;
   background-clip: border-box;
   cursor: auto;
@@ -335,7 +336,7 @@
 .apt1-copy {
   border: 0px solid #000;
   border-radius: 0px;
-  background-image: url("https://uploads-ssl.webflow.com/5fbad9a0ec09457e3f919006/608467a628908fa883188c36_Dance02.gif");
+  background-image: url("Assets/gif-1-dance.gif");
   background-position: 0px 0px;
   background-size: cover;
   background-clip: border-box;
@@ -345,7 +346,7 @@
 .apt3-copy {
   border: 0px solid #000;
   border-radius: 0px;
-  background-image: url("https://uploads-ssl.webflow.com/5fbad9a0ec09457e3f919006/60846e629520fa691bb8cbbe_Dance_02.gif");
+  background-image: url("Assets/gif-3-dance.gif");
   background-size: cover;
   background-clip: border-box;
   cursor: auto;
@@ -354,7 +355,7 @@
 .apt4-copy {
   border: 0px solid #000;
   border-radius: 0px;
-  background-image: url("https://uploads-ssl.webflow.com/5fbad9a0ec09457e3f919006/608469520067e32159a7d90f_Dance02.gif");
+  background-image: url("Assets/gif-4-dance.gif");
   background-size: cover;
   background-clip: border-box;
 }
@@ -362,7 +363,7 @@
 .apt5-copy {
   border: 0px solid #000;
   border-radius: 0px;
-  background-image: url("https://uploads-ssl.webflow.com/5fbad9a0ec09457e3f919006/6084647f0addc5d73ecab0c2_Dance_02.gif");
+  background-image: url("Assets/gif-5-dance.gif");
   background-position: 0px 0px;
   background-size: cover;
   background-clip: border-box;
@@ -371,7 +372,7 @@
 .apt6-copy {
   border: 0px solid #000;
   border-radius: 0px;
-  background-image: url("https://uploads-ssl.webflow.com/5fbad9a0ec09457e3f919006/6084656169e4dd233eb258e8_Dance_02.gif");
+  background-image: url("Assets/gif-6-dance.gif");
   background-position: 0px 0px;
   background-size: cover;
   background-clip: border-box;
@@ -380,19 +381,19 @@
 .apt7-copy {
   border: 0px solid #000;
   border-radius: 0px;
-  background-image: url("https://uploads-ssl.webflow.com/5fbad9a0ec09457e3f919006/60846a45ae1ca45f8155b0a2_Dance02.gif");
+  background-image: url("Assets/gif-7-dance.gif");
   background-position: 0px 0px;
   background-size: cover;
   background-clip: border-box;
 }
 
 .apt8-copy {
-  background-image: url("https://uploads-ssl.webflow.com/5fbad9a0ec09457e3f919006/60933971da65edae12e4252f_NE2_Credit_Dance03.png");
+  background-image: url("Assets/credits-dance.png");
   background-size: cover;
 }
 
 .elevator-copy {
-  background-image: url("https://uploads-ssl.webflow.com/5fbad9a0ec09457e3f919006/6091e7feec86825111468a01_Elevator4.png");
+  background-image: url("Assets/elevator-night.png");
   background-position: 50% 50%;
   background-size: contain;
 }
@@ -480,7 +481,7 @@
 
   .div-block-2 {
     width: 100%;
-    background-image: url("https://uploads-ssl.webflow.com/5fbad9a0ec09457e3f919006/6093365b8424a157270e828f_Fence_Short_v3.png");
+    background-image: url("Assets/fence-day.png");
     background-size: cover;
   }
 
